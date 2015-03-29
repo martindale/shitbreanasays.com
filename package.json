@@ -1,0 +1,29 @@
+{
+  "name": "breana",
+  "version": "0.0.0",
+  "description": "code for a novelty random quote generator",
+  "main": "breana.js",
+  "dependencies": {
+    "express": "^3.20.2",
+    "youtube-feeds": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/martindale/shitbreanasays.com.git"
+  },
+  "keywords": [
+    "quotes",
+    "novelty",
+    "breana"
+  ],
+  "author": "Eric Martindale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martindale/shitbreanasays.com/issues"
+  },
+  "homepage": "https://github.com/martindale/shitbreanasays.com"
+}
